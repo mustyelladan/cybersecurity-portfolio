@@ -1,0 +1,15 @@
+Aug 13 08:14:22 lab-host sshd[1021]: Accepted password for analyst from 192.168.1.25 port 51422 ssh2
+Aug 13 08:16:03 lab-host sshd[1028]: Accepted password for analyst from 192.168.1.25 port 51431 ssh2
+Aug 13 09:02:11 lab-host sshd[1104]: Failed password for admin from 10.10.10.45 port 42111 ssh2
+Aug 13 09:02:14 lab-host sshd[1105]: Failed password for admin from 10.10.10.45 port 42112 ssh2
+Aug 13 09:02:17 lab-host sshd[1106]: Failed password for admin from 10.10.10.45 port 42113 ssh2
+Aug 13 09:02:20 lab-host sshd[1107]: Failed password for admin from 10.10.10.45 port 42114 ssh2
+Aug 13 09:02:24 lab-host sshd[1108]: Failed password for admin from 10.10.10.45 port 42115 ssh2
+Aug 13 09:03:02 lab-host sshd[1112]: Accepted password for admin from 10.10.10.45 port 42122 ssh2
+Aug 13 09:17:45 lab-host sshd[1190]: Failed password for root from 172.16.20.8 port 39001 ssh2
+Aug 13 09:18:02 lab-host sshd[1191]: Failed password for root from 172.16.20.8 port 39002 ssh2
+Aug 13 10:41:12 lab-host sshd[1302]: Accepted publickey for analyst from 192.168.1.25 port 52201 ssh2
+Aug 13 09:03:18 lab-host sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/id
+Aug 13 09:03:31 lab-host sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/whoami
+Aug 13 09:04:02 lab-host sshd[1120]: Accepted password for analyst from 192.168.1.25 port 52311 ssh2
+Aug 13 09:05:14 lab-host sudo:    analyst : TTY=pts/1 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/systemctl status ssh
