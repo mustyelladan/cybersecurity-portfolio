@@ -8,8 +8,8 @@
 | 09:02:20 | Failed password authentication | 10.10.10.45 | admin | Suspicious |
 | 09:02:24 | Failed password authentication | 10.10.10.45 | admin | Suspicious |
 | 09:03:02 | Successful password authentication | 10.10.10.45 | admin | High priority |
-| 09:03:18 | `id` executed through sudo as root | 10.10.10.45 | admin | Privileged activity |
-| 09:03:31 | `whoami` executed through sudo as root | 10.10.10.45 | admin | User/privilege discovery |
+| 09:03:18 | `id` executed through sudo as root | Not recorded | admin | Privileged activity |
+| 09:03:31 | `whoami` executed through sudo as root | Not recorded | admin | User/privilege discovery |
 
 ## Summary
 
